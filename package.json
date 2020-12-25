@@ -1,0 +1,13 @@
+{
+  "name": "node-mail",
+  "version": "1.0.0",
+  "description": "node 发送邮件",
+  "main": "index.js",
+  "author": "guanshuaijie",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "node-schedule": "^1.3.2",
+    "nodemailer": "^6.4.17"
+  }
+}
